@@ -1,2 +1,3 @@
 # DarkOs-Docs
-DarkOs Documentation [ In Progress ] [ In Progress ]  
+DarkOs Documentation.
+To View DarkOs Keybindings Browse to https://docs.darkos.cf/bindings/ 
